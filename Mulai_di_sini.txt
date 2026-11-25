@@ -1,0 +1,11 @@
+SELA KOS / EDISI TERAS
+Mockup Minggu 1 · 20–26 November 2026 · Tim A26-CS091
+
+Coba demo
+Buka Sela_Kos_Teras_Demo.html dengan Chrome atau Edge. Klik Mulai demo di bawah layar, lalu Masuk sebagai Pengurus. Catat pembayaran → Kirim untuk persetujuan → Masuk sebagai Owner → Setujui pembayaran → Lihat ringkasan. Tombol Desktop, Tablet, dan Ponsel membuka tampilan contoh pada ukuran terkait. Semua data adalah contoh.
+
+Edit di Figma
+Di daftar file Figma, pilih Create → Import → From your computer, lalu pilih Sela_Kos_Teras.sketch. Buka halaman Minggu 1 untuk melihat desain dan halaman Symbols untuk komponen bersama. Demo HTML sudah memuat navigasi klik dan perubahan status.
+
+Gunakan di Stitch
+Salin isi Prompt_Stitch_Teras.txt ke proyek Stitch. Gunakan gambar Dashboard_Sela_Kos_Teras.png sebagai referensi visual bila diperlukan.
